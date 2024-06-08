@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="assets/default.svg" alt="Centered SVG" width="500" height="500">
+    <img src="assets/cover.png" alt="Centered SVG">
 </div>
 
 ## Overview
